@@ -216,5 +216,6 @@ let data =[
         "price": 217
     }
 ]
+data.JSON.stringify
 
 
