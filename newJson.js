@@ -188,7 +188,7 @@ let data =[
         "qrCode": "https://www.koreanshopvl.ru/img/items__af81cd9895ded275ad28a8e9e9f6b13e.jpg/2/image.jpg",
         "manufacturer": "\nTinel",
         "Brand": "\nTinel",
-        "description": "Мягкий пилинг-гель «I’m perfect» от Tinel, содержит комплект гиалуроновой кислоты, обладает массой полезных свойств, глубоко очищает, но при этом не сушит и не травмирует даже самую нежную кожу.",
+        "description": "Мягкий пилинг-гель «I’m perfect» от Tinel, содержит комплект гиалуроновой кислоты.",
         "price": 643
     },
     {
